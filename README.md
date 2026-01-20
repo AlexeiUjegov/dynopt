@@ -1,0 +1,2 @@
+# dynopt
+Dynamic optimization course
